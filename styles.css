@@ -54,12 +54,18 @@ body{
     height: 60px;
     width: 260px;
 
+    overflow-x: auto;
+
+
+
+
 }
 .display p{
     color: #D5D6B9;
     font-size: 1.5rem;
     font-family: 'Digital-7';
 }
+
 .buttons{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
